@@ -26,3 +26,5 @@ Frontend:
 * JavaScript
 * HTML
 * CSS
+
+<img width="1918" height="841" alt="image" src="https://github.com/user-attachments/assets/7703a302-891a-46e8-b5d2-baf66203e4c4" />
