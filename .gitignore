@@ -1,0 +1,17 @@
+# IDEs and Editors
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# AI Agent history and config
+.ai/
+
+# Log files
+*.log
+productcatalog-Backend/*.log
+productcatalog-Backend/backend.err.log
+productcatalog-Backend/backend.out.log
+productcatalog-Backend/backend.verify.err.log
+productcatalog-Backend/backend.verify.out.log
