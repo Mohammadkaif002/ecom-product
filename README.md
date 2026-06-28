@@ -1,3 +1,6 @@
+<img width="1913" height="866" alt="image" src="https://github.com/user-attachments/assets/0e5c63f9-9660-4c1a-8134-e4d60efec54e" />
+
+
 Ecom Product Catalog
 
 Overview
